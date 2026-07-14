@@ -18,7 +18,9 @@ An AI-driven conversational assistant designed to streamline communication betwe
 
 ## 💻 How to Run This Project
 1. **Clone the repository:**
-   ```bash
+   git clone https://github.com/tanishq-chauhan750/Student-Chatbot.git
  2. **Install dependencies:**
-   ```bash
-  streamlit run app.py pip install streamlit  git clone [https://github.com/tanishq-chauhan750/Student-Chatbot.git](https://github.com/tanishq-chauhan750/Student-Chatbot.git)
+    pip install streamlit
+3. Launch the application:
+streamlit run app.py
+    
